@@ -99,6 +99,7 @@
     git
     libsForQt5.kdeconnect-kde
     distrobox
+    f3d
   ];
 
   nixpkgs.config.permittedInsecurePackages = [
