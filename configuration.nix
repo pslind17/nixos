@@ -101,6 +101,7 @@
     libsForQt5.kdeconnect-kde
     distrobox
     f3d
+    arduino
   ];
 
   nixpkgs.config.permittedInsecurePackages = [
